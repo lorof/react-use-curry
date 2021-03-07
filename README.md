@@ -5,7 +5,7 @@
 ```tsx
 import React from 'react'
 import ReactDOM from 'react-dom'
-import useCurry from 'react-use-curry'
+import { useCurry } from 'react-use-curry'
 
 import useWaterCoolingStore from '...'
 import './styles.css'
